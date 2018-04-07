@@ -1,0 +1,58 @@
+html {
+	font-size: 12px;
+}
+
+li { 
+    margin-bottom: 1%;
+}
+
+p {
+	font-size: 16px;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+#bodyinput {
+    width: 50%;
+}
+
+.jumbotron {
+	overflow: hidden;
+    background-size: 100%;
+    background-position: center;
+    background-image: url('../images/newspaper2.jpg');
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+}
+
+.panel-primary {
+    background-color: white!important;
+}
+
+.navbar-header{
+    color: black;
+}
+
+
+.panel-heading.row {
+	width: 100%;
+    margin-left: 0%;
+    color: white;
+    background-color: black;
+}
+
+.panel-primary {
+    height: 135px;
+    color: black;
+}
+
+#savenote {
+    display: block;
+    color: black;
+}
+
+.nav navbar-nav {
+    background-color: black;
+}
+
